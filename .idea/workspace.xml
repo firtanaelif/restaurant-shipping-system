@@ -21,8 +21,551 @@
   <component name="ChangeListManager">
     <list default="true" id="622ceaca-48dc-464f-859f-db758181468b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/live-server" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/accepts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/accepts/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/anymatch/node_modules/normalize-path/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/anymatch/node_modules/normalize-path/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/anymatch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/anymatch/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/apache-crypt/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/apache-crypt/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/apache-crypt/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/apache-crypt/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/apache-md5/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/apache-md5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/apache-md5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/apache-md5/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/arr-diff/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/arr-diff/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/arr-flatten/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/arr-flatten/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/arr-union/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/arr-union/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/array-unique/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/array-unique/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/assign-symbols/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/assign-symbols/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/async-each/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/async-each/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/atob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/atob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/base/node_modules/define-property/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/base/node_modules/define-property/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/base/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/base/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/basic-auth/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/basic-auth/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/basic-auth/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/basic-auth/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/basic-auth/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/batch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/batch/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/bin/bcrypt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/dist/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/dist/bcrypt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/dist/bcrypt.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/dist/bcrypt.min.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/dist/bcrypt.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/externs/bcrypt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/externs/minimal-env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/scripts/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/src/bcrypt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/src/bcrypt/impl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/src/bcrypt/prng/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/src/bcrypt/prng/accum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/src/bcrypt/prng/isaac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/src/bcrypt/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/src/bcrypt/util/base64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/src/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/src/wrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/tests/quickbrown.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bcryptjs/tests/suite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/binary-extensions/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/binary-extensions/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/bindings/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/bindings/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/braces/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/braces/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/cache-base/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/cache-base/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/chokidar/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/chokidar/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/class-utils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/class-utils/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/collection-visit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/collection-visit/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/examples/normal-usage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/examples/safe-string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/lib/colors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/lib/custom/trap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/lib/custom/zalgo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/lib/extendStringPrototype.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/lib/maps/america.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/lib/maps/rainbow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/lib/maps/random.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/lib/maps/zebra.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/lib/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/lib/system/has-flag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/lib/system/supports-colors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/safe.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/safe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/colors/themes/generic-logging.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/component-emitter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/component-emitter/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/connect/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/connect/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/connect/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/connect/SECURITY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/connect/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/connect/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/copy-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/copy-descriptor/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/core-util-is/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/core-util-is/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/cors/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/cors/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/cors/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/cors/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/cors/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/cors/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/debug/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/debug/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/debug/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/debug/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/decode-uri-component/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/decode-uri-component/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/define-property/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/define-property/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/define-property/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-accessor-descriptor/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-accessor-descriptor/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-accessor-descriptor/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-accessor-descriptor/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-accessor-descriptor/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-accessor-descriptor/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-accessor-descriptor/node_modules/kind-of/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-accessor-descriptor/node_modules/kind-of/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-accessor-descriptor/node_modules/kind-of/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-accessor-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-accessor-descriptor/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-data-descriptor/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-data-descriptor/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-data-descriptor/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-data-descriptor/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-data-descriptor/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-data-descriptor/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-data-descriptor/node_modules/kind-of/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-data-descriptor/node_modules/kind-of/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-data-descriptor/node_modules/kind-of/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-data-descriptor/node_modules/kind-of/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-data-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-data-descriptor/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/is-descriptor/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/kind-of/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/kind-of/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/kind-of/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/node_modules/kind-of/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/define-property/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/define-property/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/depd/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/depd/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/depd/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/depd/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/depd/lib/browser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/depd/lib/compat/callsite-tostring.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/depd/lib/compat/event-listener-count.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/depd/lib/compat/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/depd/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/destroy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/destroy/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/duplexer/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/duplexer/LICENCE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/duplexer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/duplexer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/duplexer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/duplexer/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/ee-first/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/ee-first/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/encodeurl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/encodeurl/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/escape-html/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/escape-html/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/etag/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/etag/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/LICENCE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/examples/pretty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/readme.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/test/connect.asynct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/test/helper/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/test/merge.asynct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/test/parse.asynct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/test/pause.asynct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/test/pipeline.asynct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/test/readArray.asynct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/test/readable.asynct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/test/replace.asynct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/test/simple-map.asynct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/test/spec.asynct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/test/split.asynct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/test/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/event-stream/test/writeArray.asynct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/expand-brackets/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/expand-brackets/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/extend-shallow/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/extend-shallow/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/extend-shallow/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/extend-shallow/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/extend-shallow/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/extend-shallow/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/extend-shallow/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/extend-shallow/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/extglob/node_modules/define-property/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/extglob/node_modules/define-property/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/extglob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/extglob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/faye-websocket/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/faye-websocket/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/file-uri-to-path/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/file-uri-to-path/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fill-range/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fill-range/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/finalhandler/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/finalhandler/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/for-in/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/for-in/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fragment-cache/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fragment-cache/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fresh/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fresh/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/from/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/from/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/from/LICENSE.APACHE2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/from/LICENSE.MIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/from/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/from/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/from/readme.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/from/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/fse.node" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/fse.node" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/binding.Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/binding.Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/config.gypi" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/config.gypi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/get-value/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/get-value/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/glob-parent/node_modules/is-glob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/glob-parent/node_modules/is-glob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/glob-parent/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/glob-parent/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/graceful-fs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/graceful-fs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/has-value/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/has-value/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/has-values/node_modules/kind-of/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/has-values/node_modules/kind-of/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/has-values/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/has-values/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-auth/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-auth/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-auth/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-auth/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-auth/src/auth/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-auth/src/auth/basic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-auth/src/auth/digest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-auth/src/auth/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-auth/src/http-auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-auth/src/server/connect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-auth/src/server/hapi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-auth/src/server/http.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-auth/src/server/https.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-auth/src/server/koa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-auth/src/server/passport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-auth/src/server/proxy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-errors/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/http-errors/HISTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-errors/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/http-errors/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-errors/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/http-errors/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-errors/node_modules/inherits/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-errors/node_modules/inherits/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-errors/node_modules/inherits/inherits.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-errors/node_modules/inherits/inherits_browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-errors/node_modules/inherits/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-errors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/http-errors/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/http-parser-js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/http-parser-js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/inherits/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/inherits/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/node_modules/kind-of/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/node_modules/kind-of/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/node_modules/kind-of/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/node_modules/kind-of/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/node_modules/kind-of/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/node_modules/kind-of/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/node_modules/kind-of/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-accessor-descriptor/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-binary-path/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-binary-path/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/node_modules/kind-of/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/node_modules/kind-of/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/node_modules/kind-of/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/node_modules/kind-of/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/node_modules/kind-of/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/node_modules/kind-of/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/node_modules/kind-of/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/node_modules/kind-of/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/node_modules/kind-of/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-data-descriptor/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-descriptor/node_modules/kind-of/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-descriptor/node_modules/kind-of/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-descriptor/node_modules/kind-of/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-descriptor/node_modules/kind-of/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-descriptor/node_modules/kind-of/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-descriptor/node_modules/kind-of/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-descriptor/node_modules/kind-of/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-descriptor/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-extendable/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-extendable/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-extglob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-extglob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-glob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-glob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-number/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-number/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-plain-object/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-plain-object/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-windows/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-windows/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/is-wsl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/is-wsl/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/isarray/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/isarray/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/isobject/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/isobject/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/kind-of/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/kind-of/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/kind-of/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/kind-of/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/kind-of/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/kind-of/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/kind-of/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/kind-of/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/.github/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/injected.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/live-server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/middleware/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/middleware/spa-ignore-assets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/middleware/spa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/acceptance.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/conf/https.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/conf/server.cert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/conf/server.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/cors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/data/fragment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/data/htpasswd-test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/data/index-caps.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/data/index-head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/data/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/data/middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/data/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/data/sub/sub.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/data/test.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/htpasswd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/https.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/mount.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/proxy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/live-server/test/spa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/map-cache/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/map-cache/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/map-stream/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/map-stream/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/map-stream/LICENCE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/map-stream/examples/pretty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/map-stream/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/map-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/map-stream/readme.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/map-stream/test/simple-map.asynct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/map-visit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/map-visit/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/define-property/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/define-property/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/define-property/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/define-property/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/define-property/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/extend-shallow/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/extend-shallow/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/extend-shallow/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/extend-shallow/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/is-extendable/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/is-extendable/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/is-extendable/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/is-extendable/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/is-extendable/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/kind-of/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/kind-of/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/kind-of/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/kind-of/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/node_modules/kind-of/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/micromatch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/micromatch/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/mime-db/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/mime-db/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/mime-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/mime-types/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/mime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/mime/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/mixin-deep/node_modules/is-extendable/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/mixin-deep/node_modules/is-extendable/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/mixin-deep/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/mixin-deep/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/morgan/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/morgan/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/morgan/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/morgan/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/morgan/node_modules/depd/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/morgan/node_modules/depd/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/morgan/node_modules/depd/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/morgan/node_modules/depd/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/morgan/node_modules/depd/lib/browser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/morgan/node_modules/depd/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/morgan/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/ms/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/ms/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/ms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/ms/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/ms/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nan/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/nan/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/define-property/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/define-property/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/define-property/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/define-property/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/define-property/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/extend-shallow/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/extend-shallow/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/extend-shallow/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/extend-shallow/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/is-extendable/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/is-extendable/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/is-extendable/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/is-extendable/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/is-extendable/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/kind-of/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/kind-of/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/kind-of/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/kind-of/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/node_modules/kind-of/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/nanomatch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/nanomatch/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/negotiator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/negotiator/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/normalize-path/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/normalize-path/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/object-assign/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/object-assign/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/object-copy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/object-copy/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/object-visit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/object-visit/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/object.pick/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/object.pick/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/on-finished/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/on-finished/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/on-headers/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/on-headers/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/opn/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/opn/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/opn/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/opn/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/opn/xdg-open" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/parseurl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/parseurl/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/pascalcase/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/pascalcase/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/path-dirname/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/path-dirname/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/path-is-absolute/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/path-is-absolute/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/pause-stream/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/pause-stream/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/pause-stream/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/pause-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/pause-stream/readme.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/pause-stream/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/pause-stream/test/pause-end.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/posix-character-classes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/posix-character-classes/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/process-nextick-args/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/process-nextick-args/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/proxy-middleware/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/proxy-middleware/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/proxy-middleware/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/proxy-middleware/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/proxy-middleware/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/proxy-middleware/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/range-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/range-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/readable-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/readable-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/readdirp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/readdirp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/regex-not/node_modules/extend-shallow/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/regex-not/node_modules/extend-shallow/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/regex-not/node_modules/extend-shallow/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/regex-not/node_modules/extend-shallow/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/regex-not/node_modules/is-extendable/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/regex-not/node_modules/is-extendable/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/regex-not/node_modules/is-extendable/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/regex-not/node_modules/is-extendable/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/regex-not/node_modules/is-extendable/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/regex-not/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/regex-not/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/remove-trailing-separator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/remove-trailing-separator/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/repeat-element/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/repeat-element/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/repeat-string/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/repeat-string/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/resolve-url/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/resolve-url/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/ret/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/ret/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/safe-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/safe-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/safe-regex/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/safe-regex/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/send/node_modules/http-errors/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/send/node_modules/http-errors/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/send/node_modules/http-errors/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/send/node_modules/http-errors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/send/node_modules/http-errors/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/send/node_modules/setprototypeof/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/send/node_modules/setprototypeof/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/send/node_modules/setprototypeof/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/send/node_modules/setprototypeof/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/send/node_modules/setprototypeof/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/send/node_modules/setprototypeof/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/send/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/send/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/serve-index/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/serve-index/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/set-value/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/set-value/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/setprototypeof/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/setprototypeof/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/setprototypeof/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/setprototypeof/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/setprototypeof/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/setprototypeof/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/snapdragon-node/node_modules/define-property/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/snapdragon-node/node_modules/define-property/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/snapdragon-node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/snapdragon-node/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/snapdragon-util/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/snapdragon-util/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/snapdragon/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/snapdragon/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/source-map-resolve/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/source-map-resolve/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/source-map-url/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/source-map-url/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/source-map/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/source-map/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split-string/node_modules/extend-shallow/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split-string/node_modules/extend-shallow/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split-string/node_modules/extend-shallow/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split-string/node_modules/extend-shallow/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split-string/node_modules/is-extendable/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split-string/node_modules/is-extendable/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split-string/node_modules/is-extendable/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split-string/node_modules/is-extendable/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split-string/node_modules/is-extendable/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split-string/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/split-string/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split/LICENCE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split/examples/pretty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split/readme.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split/test/options.asynct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split/test/partitioned_unicode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split/test/split.asynct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/split/test/try_catch.asynct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/static-extend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/static-extend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/statuses/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/statuses/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/stream-combiner/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/stream-combiner/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/stream-combiner/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/stream-combiner/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/stream-combiner/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/stream-combiner/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/stream-combiner/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/string_decoder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/string_decoder/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/through/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/through/LICENSE.APACHE2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/through/LICENSE.MIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/through/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/through/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/through/readme.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/through/test/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/through/test/auto-destroy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/through/test/buffering.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/through/test/end.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/through/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-object-path/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/to-object-path/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-regex-range/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/to-regex-range/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-regex/node_modules/define-property/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-regex/node_modules/define-property/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-regex/node_modules/define-property/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-regex/node_modules/define-property/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-regex/node_modules/define-property/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-regex/node_modules/extend-shallow/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-regex/node_modules/extend-shallow/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-regex/node_modules/extend-shallow/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-regex/node_modules/extend-shallow/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-regex/node_modules/is-extendable/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-regex/node_modules/is-extendable/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-regex/node_modules/is-extendable/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-regex/node_modules/is-extendable/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-regex/node_modules/is-extendable/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/to-regex/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/to-regex/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/toidentifier/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/toidentifier/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/union-value/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/union-value/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/unix-crypt-td-js/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/unix-crypt-td-js/README.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/unix-crypt-td-js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/unix-crypt-td-js/src/unix-crypt-td.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/unix-crypt-td-js/test/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/unix-crypt-td-js/unix-crypt-td.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/unpipe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/unpipe/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/unset-value/node_modules/has-value/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/unset-value/node_modules/has-value/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/unset-value/node_modules/has-values/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/unset-value/node_modules/has-values/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/unset-value/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/unset-value/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/upath/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/upath/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/urix/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/urix/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/use/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/use/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/util-deprecate/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/util-deprecate/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/utils-merge/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/utils-merge/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/uuid/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/uuid/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/vary/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/vary/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/websocket-driver/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/websocket-driver/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/websocket-driver/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/websocket-driver/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/websocket-driver/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/websocket-driver/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/websocket-driver/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/websocket-extensions/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/websocket-extensions/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/images/product-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/images/product-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/images/product-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/images/product-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/images/product-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/images/product-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/images/product-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/images/product-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/images/product-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/images/product-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/images/product-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/images/product-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/screens/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/screens/HomeScreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +590,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/backend" />
       <recent name="$PROJECT_DIR$/frontend/src/screens" />
@@ -61,7 +607,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606661392951</updated>
       <workItem from="1606661394340" duration="4648000" />
-      <workItem from="1607185456839" duration="2852000" />
+      <workItem from="1607185456839" duration="4381000" />
     </task>
     <servers />
   </component>
