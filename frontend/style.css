@@ -1,114 +1,154 @@
 * {
     box-sizing: border-box;
 }
-
 html {
-    font-size: 62.5%;
-    /* 16px * 62.5 = 10px = 1rem */
+    font-size: 62.5%; /* 16px * 62.5 = 10px = 1rem */
 }
-
 body {
     height: 100vh;
     font: 1.6rem Helvetica, Arial;
     margin: 0;
 }
-
 a {
+    color: #000000;
     text-decoration: none;
-    color: #333333;
 }
-
 a:hover {
-    color: burlywood;
+    color: #f08040;
 }
-
+button {
+    cursor: pointer;
+}
+input,
+button {
+    font: 1.6rem helvetica;
+    padding: 1rem;
+    border: 0.1rem #808080 solid;
+    border-radius: 0.5rem;
+}
+input:hover,
+button:hover {
+    border: 0.1rem #404040 solid;
+}
+button.primary {
+    background-color: #f0c040;
+}
+.overlay {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(16, 16, 16, 0.5);
+}
+.overlay.active {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+.overlay > div {
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    max-width: 40rem;
+}
+.overlay > div > * {
+    margin: 2rem;
+}
+.fw {
+    width: 100%;
+}
+.success {
+    color: #40c040;
+}
+.error {
+    color: #c04040;
+}
 .grid-container {
     display: grid;
-    grid-template-areas: 'header' 'main' 'footer';
+    grid-template-areas:
+    'header'
+    'main'
+    'footer';
     grid-template-columns: 1fr;
     grid-template-rows: 5rem 1fr 5rem;
     height: 100%;
 }
-
 header {
     grid-area: header;
-    background-color: #4c8097;
-    display: flex;
+    background-color: #203040;
     color: #ffffff;
+    display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 5px;
+    padding: 0.5rem;
 }
-
 header a {
     color: #ffffff;
-    font-weight: bold;
     text-decoration: none;
+    padding-right: 1rem;
 }
-
 header a:hover {
-    text-decoration: underline;
+    color: #f08040;
 }
-
 .brand a {
-    font-size: 30px;
-    color: #ffffff;
+    font-weight: bold;
+    font-size: 3rem;
+    padding-left: 1rem;
 }
-
 footer {
-    color: #ffffff;
+    background-color: #203040;
     display: flex;
-    align-items: center;
     justify-content: center;
-    background-color: #4c8097;
+    align-items: center;
+    color: #ffffff;
 }
-
-
-/* products */
-
+/* Products */
 .products {
     display: flex;
     flex-wrap: wrap;
-    list-style-type: null;
-    padding: 0px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
     justify-content: center;
 }
-
 .products li {
-    flex: 0 10 300px;
-    padding: 10px;
-    padding-bottom: 0px;
-    height: 420px;
-    border-top: 2px #999999 solid;
+    flex: 0 1 30rem;
+    margin: 1rem;
+    margin-bottom: 0;
+    height: 42rem;
+    border-top: 0.2rem #e0e0e0 solid;
 }
-
 .product {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     height: 100%;
 }
-
 .product img {
-    max-height: 300px;
-    max-width: 300px;
-    margin-top: 20px;
+    max-height: 26rem;
+    max-width: 22rem;
+    margin-top: 2rem;
 }
-
 .product-name {
-    line-height: 22px;
+    line-height: 2.2rem;
 }
-
 .product-brand {
-    font-size: 12px;
+    font-size: 1.2rem;
     color: #808080;
 }
-
 .product-price {
-    font-size: 20px;
-    color: #333333;
+    font-size: 2rem;
 }
-
+.product-price span {
+    font-size: 1.2rem;
+}
 /* Rating */
 .rating {
     color: #ffc000;
@@ -117,4 +157,44 @@ footer {
 .rating span:last-child {
     color: #444444;
     font-size: 1.4rem;
+}
+.content {
+    padding: 1rem;
+}
+/* Product Details */
+.details {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+.details-image {
+    flex: 2 1 60rem;
+}
+.details-image img {
+    max-width: 60rem;
+    width: 100%;
+}
+.details-info,
+.details-action {
+    flex: 1 1 30rem;
+}
+.details-info ul,
+.details-action ul {
+    padding: 0;
+    list-style-type: none;
+}
+.details-info h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+.details-info li,
+.details-action li {
+    margin-bottom: 1rem;
+}
+.details-action {
+    border: 0.1rem #808080 solid;
+    border-radius: 0.5rem;
+    background-color: #f8f8f8;
+    padding: 1rem;
 }
