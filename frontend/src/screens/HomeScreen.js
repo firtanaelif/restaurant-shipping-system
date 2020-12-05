@@ -1,5 +1,3 @@
-import data from "../data.js";
-
 const HomeScreen = {
     render: async () => {
         const response = await fetch('http://localhost:5000/api/products', {
@@ -23,7 +21,7 @@ const HomeScreen = {
             <img src="${product.image}" alt="${product.name}" />
           </a>
         <div class="product-name">
-          <a href="/#/product/1">
+          <a href="/#/product/${product._id}">
             ${product.name}
           </a>
         </div>
