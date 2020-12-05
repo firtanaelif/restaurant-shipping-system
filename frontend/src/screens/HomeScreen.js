@@ -1,4 +1,5 @@
 import axios from 'axios';
+import Rating from '../components/Rating';
 
 const HomeScreen = {
     render: async () => {
@@ -9,7 +10,7 @@ const HomeScreen = {
             },
         });
         if (!response || response.statusText !== 'OK') {
-            return `<div>Error in getting data</div>`;
+            return '<div>Error in getting data</div>';
         }
         const products = response.data;
 
@@ -27,6 +28,12 @@ const HomeScreen = {
           <a href="/#/product/${product._id}">
             ${product.name}
           </a>
+        </div>
+        <div class="product-rating">
+          ${Rating.render({
+                    value: product.rating,
+                    text: `${product.numReviews} reviews`,
+                })}
         </div>
         <div class="product-brand">
           ${product.brand}

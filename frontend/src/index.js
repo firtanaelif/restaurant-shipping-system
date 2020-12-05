@@ -1,7 +1,7 @@
-import HomeScreen from './screens/HomeScreen.js';
-import ProductScreen from './screens/ProductScreen.js';
-import Error404Screen from "./screens/Error404Screen.js";
-import {parseRequestUrl} from "./utils.js";
+import HomeScreen from './screens/HomeScreen';
+import ProductScreen from './screens/ProductScreen';
+import Error404Screen from "./screens/Error404Screen";
+import {parseRequestUrl} from "./utils";
 
 const routes = {
     '/': HomeScreen,
