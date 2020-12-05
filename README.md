@@ -1,3 +1,3 @@
 # Graduation Project
 
-Restaurant Managemnet System - w | QR Code Menu
+Restaurant Management System - w | QR Code Menu
