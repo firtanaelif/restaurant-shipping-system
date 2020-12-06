@@ -20,10 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="622ceaca-48dc-464f-859f-db758181468b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/userModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routers/userRouter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/screens/CartScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/screens/CartScreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.9.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.9.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +72,8 @@
       <option name="presentableId" value="Default" />
       <updated>1606661392951</updated>
       <workItem from="1606661394340" duration="4648000" />
-      <workItem from="1607185456839" duration="12093000" />
+      <workItem from="1607185456839" duration="13476000" />
+      <workItem from="1607292416471" duration="981000" />
     </task>
     <servers />
   </component>
@@ -83,8 +90,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="611" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607291696242">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="611" y="369" key="#com.intellij.fileTypes.FileTypeChooser/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1607291329059" />
+    <state x="611" y="369" key="#com.intellij.fileTypes.FileTypeChooser/1792.23.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1607291696242" />
     <state width="1771" height="318" key="GridCell.Tab.0.bottom" timestamp="1607208362532">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
