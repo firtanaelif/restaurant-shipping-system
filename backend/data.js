@@ -9,7 +9,7 @@ export default {
             brand: 'Starbucks',
             rating: 4.5,
             numReviews: 10,
-            countInStock: 6,
+            countInStock: 0,
         },
         {
             _id: '2',
