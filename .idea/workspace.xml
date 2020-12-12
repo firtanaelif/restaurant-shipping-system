@@ -20,36 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="622ceaca-48dc-464f-859f-db758181468b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/screens/SigninScreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/screens/ProductScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/screens/ProductScreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.9.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.9.development.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/kareem/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/kareem/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/kareem/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/kareem/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/kareem/docs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/kareem/docs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/kareem/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/kareem/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/kareem/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/kareem/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/kareem/test/examples.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/kareem/test/examples.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/kareem/test/pre.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/kareem/test/pre.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongoose/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongoose/History.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongoose/dist/browser.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongoose/dist/browser.umd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongoose/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongoose/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/model.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/model.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongoose/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongoose/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpath/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mpath/History.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpath/lib/stringToParts.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mpath/lib/stringToParts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpath/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mpath/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpath/test/stringToParts.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mpath/test/stringToParts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mquery/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mquery/History.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mquery/lib/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mquery/lib/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mquery/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mquery/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mquery/test/utils.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mquery/test/utils.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
