@@ -31,7 +31,7 @@ button:hover {
     border: 0.1rem #404040 solid;
 }
 button.primary {
-    background-color: #f0c040;
+    background-color: #daecd7;
 }
 .overlay {
     display: none;
@@ -82,7 +82,7 @@ button.primary {
 }
 header {
     grid-area: header;
-    background-color: #203040;
+    background-color: #0DD19E;
     color: #ffffff;
     display: flex;
     justify-content: space-between;
@@ -95,7 +95,7 @@ header a {
     padding-right: 1rem;
 }
 header a:hover {
-    color: #f08040;
+    color: #000000;
 }
 .brand a {
     font-weight: bold;
@@ -103,7 +103,7 @@ header a:hover {
     padding-left: 1rem;
 }
 footer {
-    background-color: #203040;
+    background-color: #0DD19E;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -253,4 +253,29 @@ footer {
 .cart-list select {
     font-size: 1.3rem;
     padding: 0.5rem;
+}
+/* Form */
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.form-items {
+    display: flex;
+    flex-direction: column;
+    width: 32rem;
+    padding: 2rem;
+    border: 0.1rem #c0c0c0 solid;
+    border-radius: 0.5rem;
+    list-style-type: none;
+}
+.form-items li {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+.form-container h1 {
+    font-size: 2.5rem;
 }

@@ -2,7 +2,6 @@ import {getProduct} from "../api";
 import {parseRequestUrl} from "../utils";
 import Rating from '../components/Rating';
 
-
 const ProductScreen = {
     after_render: () => {
         const request = parseRequestUrl();
