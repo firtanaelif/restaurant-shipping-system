@@ -1,20 +1,46 @@
 import express from 'express';
+import expressAsyncHandler from 'express-async-handler';
 import User from '../models/userModel';
+import { generateToken } from '../utils';
 
 const userRouter = express.Router();
 
-userRouter.get('/createadmin', async (req, res) => {
-    try {
-        const user = new User({
-            name: 'admin',
-            email: 'admin@example.com',
-            password: '12345',
-            isAdmin: true,
+userRouter.get(
+    '/createadmin',
+    expressAsyncHandler(async (req, res) => {
+        try {
+            const user = new User({
+                name: 'elif',
+                email: 'firtana.elif@gmail.com',
+                password: 'elif12345',
+                isAdmin: true,
+            });
+            const createdUser = await user.save();
+            res.send(createdUser);
+        } catch (err) {
+            res.status(500).send({ message: err.message });
+        }
+    })
+);
+userRouter.post(
+    '/signin',
+    expressAsyncHandler(async (req, res) => {
+        const signinUser = await User.findOne({
+            email: req.body.email,
+            password: req.body.password,
         });
-        const createdUser = await user.save();
-        res.send(createdUser);
-    } catch (err) {
-        res.status(500).send({ message: err.message });
-    }
-});
-export default userRouter;
+        if (!signinUser) {
+            res.status(401).send({
+                message: 'Invalid Email or Password',
+            });
+        } else {
+            res.send({
+                _id: signinUser._id,
+                name: signinUser.name,
+                email: signinUser.email,
+                isAdmin: signinUser.isAdmin,
+                token: generateToken(signinUser),
+            });
+        }
+    })
+);
