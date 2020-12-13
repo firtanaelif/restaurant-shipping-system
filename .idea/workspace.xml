@@ -20,25 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="622ceaca-48dc-464f-859f-db758181468b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/routers/userRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routers/userRouter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/localStorage.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/localStorage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/screens/SigninScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/screens/SigninScreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.9.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.9.development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn-error.log" beforeDir="false" afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
