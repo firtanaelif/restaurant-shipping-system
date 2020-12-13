@@ -21,7 +21,33 @@
   <component name="ChangeListManager">
     <list default="true" id="622ceaca-48dc-464f-859f-db758181468b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/models/userModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/models/userModel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/routers/userRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routers/userRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/express-async-handler/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/express-async-handler/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/express-async-handler/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/express-async-handler/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/express-async-handler/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/express-async-handler/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/express-async-handler/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/.deps/Release/obj.target/fse/fsevents.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/.deps/Release/obj.target/fse/fsevents.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/.node" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/.node" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/fse.node" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/fse.node" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/binding.Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/binding.Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/config.gypi" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/config.gypi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/fse.target.mk" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/fse.target.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/gyp-mac-tool" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/build/gyp-mac-tool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/ini/ini.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/ini/ini.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/ini/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/ini/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/localStorage.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/localStorage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.9.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.9.development.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,10 +114,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="530" y="245" key="#Inspections" timestamp="1607884619414">
+    <state x="530" y="245" key="#Inspections" timestamp="1607888534925">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="530" y="245" key="#Inspections/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1607884619414" />
+    <state x="530" y="245" key="#Inspections/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1607888534925" />
     <state x="611" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607291696242">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
